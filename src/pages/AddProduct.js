@@ -75,9 +75,10 @@ const AddProduct = () => {
           </Form.Group>
 
           <Form.Group className="mb-2">
-            <Form.Label type="number">Memory specification</Form.Label>
+            <Form.Label>Memory specification</Form.Label>
             <Form.Control
               required
+              type="number"
               value={product.memory}
               onChange={(e) =>
                 setProduct({ ...product, memory: e.target.value })
@@ -86,9 +87,10 @@ const AddProduct = () => {
           </Form.Group>
 
           <Form.Group className="mb-2">
-            <Form.Label type="number">Price</Form.Label>
+            <Form.Label>Price</Form.Label>
             <Form.Control
               required
+              type="number"
               value={product.price}
               onChange={(e) =>
                 setProduct({ ...product, price: e.target.value })
