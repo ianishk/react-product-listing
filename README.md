@@ -1,6 +1,6 @@
 # Product Listing using React
 
-This is a product listing page made using react
+This is a product listing page made using react. <a href="https://react-product-listing.netlify.app/" target="_blank">Live URL</a>
 ## Technologies used
  - React
  - Redux
