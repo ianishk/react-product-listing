@@ -1,8 +1,7 @@
 # Product Listing using React
+
 This is a product listing page made using react
-
 ## Technologies used
-
  - React
  - Redux
  - Bootstrap
@@ -40,5 +39,3 @@ To delete a product, click on that product and click "delete"
 To edit a product, click on the "edit" button in the above step and modify the existing details
 
 ![image](https://user-images.githubusercontent.com/82283347/175971599-9fa384b5-34af-43b2-8f94-3228d3140198.png)
-
-
